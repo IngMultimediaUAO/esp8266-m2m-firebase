@@ -6,6 +6,10 @@ Proyecto para conectar dos módulos esp8266 a firebase y lograr que ambos módul
 
 https://www.youtube.com/watch?v=ubFSNkUx46E 
 
+## Esquema de funcionamiento y flujo de información en el proyecto
+
+![Conexiones entre esp8266 y convertidor usb-serial](https://raw.githubusercontent.com/orejuelajd/esp8266-m2m-firebase/master/general-resources/flujo-info-parcial2.jpg)
+
 ## Objetivos:
 
 * Crear una base de datos en firebase.
