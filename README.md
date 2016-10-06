@@ -2,6 +2,11 @@ Conectando esp8266 con firebase
 ================
 Proyecto para conectar dos módulos esp8266 a firebase y lograr que ambos módulos se comuniquen entre ellos, haciendo que un módulo "A" apague o encienda el led que estará conectado al otro módulo "B", y viceversa, que el módulo "B" encienda o apague el led conectado al módulo "A".
 
+Desarrollado por:
+
+Andrés Doncel
+Juan David Orejuela Bolaños
+
 ## Video del funcionamiento del proyecto
 
 https://www.youtube.com/watch?v=ubFSNkUx46E 
